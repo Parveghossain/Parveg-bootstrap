@@ -1,0 +1,118 @@
+.box {
+    background: #b3c6cc;
+    height: 100px;
+    margin-bottom: 10px;
+
+}
+
+.br {
+    max-width: 15%;
+
+}
+
+.col {
+    float: left;
+}
+
+.boxes {
+    background: lightblue;
+    height: 40px;
+}
+
+.col {
+    float: left;
+}
+
+p {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.gn {
+    max-width: 55%;
+
+}
+.col {
+    float: left;
+}
+.tl {
+    max-width: 30%;
+}
+.col {
+    float: left;
+}
+.box2 {
+ background:#b3c6cc;
+    height: 225px;
+    margin-bottom: 10px;
+
+    
+}
+.hf {
+    max-width: 65%;
+}
+.col {
+    float: left;
+}
+.boxes2 {
+    background: lightblue;
+    height: 150px;
+}
+.hc {
+    max-width: 35%;
+}
+.col{
+    float: left;
+}
+.box3 {
+     background: #b3c6cc;
+    height: 225px;
+    margin-bottom: 10px;
+}
+.ad {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: white;
+}
+.box4 {
+    background:#b3c6cc;
+    height: 310px;
+    margin-bottom: 10px;
+}
+.af {
+    max-width: 30%;
+}
+.col {
+    float: left;
+}
+.boxes4 { 
+    background: lightblue;
+    height: 250px;
+    
+}
+.al {
+    max-width: 70%;
+}
+.col {
+    float: left;
+}
+.box5 { background:#b3c6cc;
+    height: 350px;
+    margin-bottom: 10px;
+
+    
+}
+.boxes5 {
+    background: lightblue;
+    height: 290px;
+}
+.box6 {
+     background:#b3c6cc;
+    height: 100px;
+    margin-bottom: 10px;
+
+}
